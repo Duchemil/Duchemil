@@ -19,5 +19,3 @@ I'm kylian, a student at [42 Le Havre](https://www.42lehavre.fr) !
 ## Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duchemil&layout=compact)
-
-![Duchemil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duchemil&show_icons=true&theme=dark)
