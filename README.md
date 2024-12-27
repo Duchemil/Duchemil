@@ -1,28 +1,28 @@
-Hello World !
+# Hello there, I'm Lucas! 👋
 
-I'm Lucas, a student at [42 Le Havre](https://www.42lehavre.fr) !
+I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of College Studies (DCS) at Cégep de La Pocatière in Québec, specializing in Game Development. Prior to that, I completed a BTS SIO (IT Services for Organizations) at StJoSup Le Havre with a focus on SLAM (Software Solutions and Business Applications) and I am actively seeking an apprenticeship contract starting in April 2025.
 
-This page is a work in progress !
-----------
+## 🚀 Projects
 
-### 42 School Projects
+This is a work in progress section and will be filled later with more visual projects, for now you can my projects' code.
 
-[![Duchemil's 42 ft_transcendence Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_transcendencem.png)](https://github.com/lolopss/Transcendence)
-[![Duchemil's 42 ft_irc Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_ircm.png)]
-[![Duchemil's 42 inception Score](https://github.com/KylianAUBRY/IMG/blob/master/inceptione.png)]
-[![Duchemil's 42 CPP Score](https://github.com/KylianAUBRY/IMG/blob/master/cppe.png)]
-[![Duchemil's 42 cube3D Score](https://github.com/KylianAUBRY/IMG/blob/master/cub3dm.png)](https://github.com/Duchemil/cub3d)
-[![Duchemil's 42 minishell Score](https://github.com/KylianAUBRY/IMG/blob/master/minishelle.png)](https://github.com/Duchemil/minishell)
-[![Duchemil's 42 Philosophers Score](https://github.com/KylianAUBRY/IMG/blob/master/philosophersm.png)](https://github.com/Duchemil/philosophers)
-[![Duchemil's 42 minitalk Score](https://github.com/KylianAUBRY/IMG/blob/master/minitalkm.png)](https://github.com/Duchemil/Minitalk)
-[![kyaubry's 42 push_swap Score](https://github.com/KylianAUBRY/IMG/blob/master/push_swapm.png)](https://github.com/Duchemil/push_swap)
-[![kyaubry's 42 so_long Score](https://github.com/KylianAUBRY/IMG/blob/master/so_longm.png)](https://github.com/Duchemil/so_long)
-[![kyaubry's 42 get_next_line Score](https://github.com/KylianAUBRY/IMG/blob/master/get_next_linem.png)](https://github.com/Duchemil/gnl)
-[![kyaubry's 42 ft_printf Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_printfm.png)](https://github.com/Duchemil/printf)
-[![Duchemil's 42 Libft Score](https://github.com/KylianAUBRY/IMG/blob/master/libftm.png)](https://github.com/Duchemil/libft)
 
-----------
+## 🔧 Skills
 
-## Statistics
+- C#
+- C
+- C++
+- SQL
+- VB/VBA
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duchemil&layout=compact)
+## 🌐 Connect with me
+
+- Email: lduchemi@student.42lehavre.fr
+- [LinkedIn](https://www.linkedin.com/in/lucas-duchemin-331034339/)
+- [42Profile](https://profile.intra.42.fr/users/lduchemi) 
+
+## 👾 Interests
+
+In my free time, you'll find me practicing bouldering, reading all sorts of things, practicing an instrument, or playing video games.
+
+Feel free to reach out if you have any questions or just want to chat about coding, music, sports, games, or anything else!
