@@ -4,7 +4,7 @@ I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of 
 
 ## 🚀 Projects
 
-This is a work in progress section and will be filled later with more visual projects, for now you can my projects' code.
+This is a work in progress section and will be filled later with more visual projects, for now you can directly check my projects' code.
 
 
 ## 🔧 Skills
