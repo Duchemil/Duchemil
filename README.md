@@ -4,8 +4,25 @@ I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of 
 
 ## 🚀 Projects
 
-This is a work in progress section and will be filled later with more visual projects, for now you can directly check my projects' code.
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/892a11a8-116d-440a-91c9-6a7b09b2d7c3" width="900" alt="Transcendence Gameplay">
+    <p>
+      <strong>Transcendence Gameplay</strong><br>
+      Made for the end of my common course at 42 Le-Havre. Project's page can be found 
+      <a href="https://github.com/lolopss/Transcendence">here</a>.
+    </p>
+  </div>
 
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/adfe9ad1-c610-401b-a227-9b2dd6f9f257" width="900" alt="Melodic Chronicles">
+    <p>
+      <strong>Melodic Chronicles</strong><br>
+      Made for and winner of the Game Jam 42-LeHavre 2023. Project's page can be found 
+      <a href="https://github.com/Duchemil/Melodic-Chronicles">here</a>.
+    </p>
+  </div>
+</div>
 
 ## 🔧 Skills
 
