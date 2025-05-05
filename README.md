@@ -1,6 +1,6 @@
 # Hello there, I'm Lucas! 👋
 
-I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of College Studies (DCS) at Cégep de La Pocatière in Québec, specializing in Game Development. Prior to that, I completed a BTS SIO (IT Services for Organizations) at StJoSup Le Havre with a focus on SLAM (Software Solutions and Business Applications) and I am actively seeking an apprenticeship contract starting in April 2025.
+I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of College Studies (DCS) at Cégep de La Pocatière in Québec, specializing in Game Development. Prior to that, I completed a BTS SIO (IT Services for Organizations) at StJoSup Le Havre with a focus on SLAM (Software Solutions and Business Applications) and I am actively seeking an apprenticeship contract starting in September 2025.
 
 ## 🚀 Projects
 
@@ -28,6 +28,7 @@ I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of 
 - C
 - C++
 - SQL
+- Python
 - VB/VBA
 
 ## 🌐 Connect with me
