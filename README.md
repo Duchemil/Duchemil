@@ -14,11 +14,11 @@ I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of 
   </div>
 
   <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="https://github.com/user-attachments/assets/adfe9ad1-c610-401b-a227-9b2dd6f9f257" width="900" alt="Melodic Chronicles">
     <p>
       <strong>Melodic Chronicles</strong><br>
       Made for and winner of the Game Jam 42-LeHavre 2023, <a href="https://github.com/Duchemil/Melodic-Chronicles">Melodic Chronicles<a> is a 2D platformer based on sound.
     </p>
+    <img src="https://github.com/user-attachments/assets/adfe9ad1-c610-401b-a227-9b2dd6f9f257" width="900" alt="Melodic Chronicles">
   </div>
 </div>
 
