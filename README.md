@@ -6,11 +6,11 @@ I'm currently a student at 42 LeHavre, the previous year, I earned a Diploma of 
 
 <div align="center">
   <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="https://github.com/user-attachments/assets/892a11a8-116d-440a-91c9-6a7b09b2d7c3" width="900" alt="Transcendence Gameplay">
     <p>
       <strong>Transcendence Gameplay</strong><br>
       Made for the end of my common course at 42 Le-Havre, <a href="https://github.com/lolopss/Transcendence">Transcendence</a> is a web based Pong game project..
     </p>
+    <img src="https://github.com/user-attachments/assets/892a11a8-116d-440a-91c9-6a7b09b2d7c3" width="900" alt="Transcendence Gameplay">
   </div>
 
   <div style="display: inline-block; text-align: center; margin: 20px;">
